@@ -1,0 +1,147 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #1d1d1d;
+}
+
+
+#title{
+	background-color: rgb(0, 0, 0);
+    font-size: 210%;
+    text-align: center;
+    color: rgb(250, 249, 249);
+    padding: 20px;
+    /* font-family: 'Mali', cursive; */
+    font-family: 'Lobster', cursive;
+    text-transform: uppercase;
+
+}
+#rat{
+    font-size: 40px;
+    color:#fff;
+    font-style: 'Krub';
+    margin-left: 31%;
+    margin-top: 35px;
+
+}
+.pc{
+    width:200px;
+    height: 200px;
+}
+#commse{
+    box-sizing: border-box;
+    min-height: 700px;
+    width: 720px;
+    background:rgb(238, 238, 238);
+    margin-left: 45%;
+    position: absolute;
+    font-size: 120%;
+    top: 18%;
+    padding: 20px;
+    line-height: 35px;
+    font-family: 'Krub';
+    border-radius: 6px;
+}
+
+#commse img {
+    border-radius: 50%;
+}
+
+#tr {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 37px;
+}
+
+.rating {
+    position: absolute;
+    top:16%;
+    left:3%;
+    display:flex;
+    padding: 2px;
+    border-radius: 20px;
+    display: inline-block;
+}
+ .rating a {
+    font-size: 270%;
+    margin-right: 10px;
+    /* color: #ffffff; */
+    transition: font-size 0.3s, color 0.3s;
+    text-decoration: none;
+
+}
+
+.rating a:hover {
+    /* color: gold;
+    font-size: 280%; */
+}
+
+ .chk {
+     color: gold;
+ }
+
+ h2 {
+     color: #f5f5f5;
+     margin-left: 16.5%;
+     font-family: 'Krub';
+ }
+
+ h1 {
+    margin-left: 13%;
+    color: #f5f5f5;
+    font-family: 'Krub';
+
+ }
+
+ form {
+    margin-left: 6%;
+    padding: 20px;
+    
+ }
+
+ textarea {
+     padding: 10px;
+     resize: none;
+     height: 150px;
+     background: rgb(87, 87, 87);
+     border: none;
+     color: #f5f5f5;
+     margin-bottom: 15px;
+ }
+
+.comm{
+    position: absolute;
+    top:50%;
+} 
+
+.nmm, .nmmm {
+    color: #f5f5f5;
+    font-family: 'Lobster';
+    font-size: 120%;
+    margin-bottom: 10px;
+
+}
+
+.nmmm {
+    
+
+}
+
+.hide {
+    display: none;
+}
+.ank{
+    margin-left: 5%;
+    display: inline-block;
+    margin-bottom: 30px;
+    padding: 15px;
+    width:450px;
+    border-radius: 6px;
+    color:rgb(231, 231, 231);
+    background: rgb(71, 71, 71);
+    font-family: 'Krub';
+
+}
+
+
+
